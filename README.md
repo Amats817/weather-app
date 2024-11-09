@@ -2,7 +2,7 @@
 https://amats817.github.io/weather-app/
 
 ## Overview
-This is a simple weather application that allows you to input a city name and instantly view the current weather conditions. The app provides essential weather information, including temperature, humidity, and a brief weather description, all in an intuitive and user-friendly interface.
+This is a simple weather application that allows you to input a city name and instantly view the current weather conditions. The app provides essential weather information, including temperature, humidity, and a brief weather description, all in an intuitive and user-friendly interface. Shoutout to BroCode for making this happen
 
 ## Features
 - **City Search**: Enter any city to fetch live weather data.
